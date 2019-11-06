@@ -12,6 +12,3 @@ The actor’s last official relationship was in 1999 with actress Jennifer Syme.
 Photographed while leaving a restaurant in September, the couple have known each other for a long time. Alexandra, who in addition to a renowned plastic artist is also a painter, sculptor and filmmaker, produced the covers and all visual art of two Reeves poetry books: Ode To Happiness (2011) and Shadows (2015). The American press, however, saw the couple only as good friends until then.
 
 On Twitter, the actor and his girlfriend became the hot topic. The network’s users, accustomed to gray-haired huts parading alongside women half their age, praised the couple: she, although younger, has long white hair.
-
-[link](https://twitter.com/nowthisnews/status/1192127755560853504)
-
