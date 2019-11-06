@@ -1,7 +1,7 @@
-
+![image](https://img.jakpost.net/c/2019/05/20/2019_05_20_72607_1558317268._large.jpg)
 ## Keanu Reeves Introduces The World To His First Girlfriend In 20 Years
 
-The Actor has never appeared with a pair on a red carpet in 35 years of career; (his previous relationship had a tragic outcome)
+_The Actor has never appeared with a pair on a red carpet in 35 years of career; (his previous relationship had a tragic outcome)_
 
 Very Discreet, actor Keanu Reeves, 55, publicly took over dating 46-year-old artist Alexandra Grant. The two paraded hand in hand on the red carpet of a Gucci designer event that took place on Saturday 2 in Los Angeles, California. According to the Daily Mail, the couple arrived at the event and did not hang out – as they posed for photos, exchanged caresses and passionate glances in front of the photographers.
 
