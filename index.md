@@ -12,30 +12,6 @@ The actor’s last official relationship was in 1999 with actress Jennifer Syme.
 Photographed while leaving a restaurant in September, the couple have known each other for a long time. Alexandra, who in addition to a renowned plastic artist is also a painter, sculptor and filmmaker, produced the covers and all visual art of two Reeves poetry books: Ode To Happiness (2011) and Shadows (2015). The American press, however, saw the couple only as good friends until then.
 
 On Twitter, the actor and his girlfriend became the hot topic. The network’s users, accustomed to gray-haired huts parading alongside women half their age, praised the couple: she, although younger, has long white hair.
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[link](https://twitter.com/nowthisnews/status/1192127755560853504)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/busttinoking/keanunews/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
